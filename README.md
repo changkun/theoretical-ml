@@ -2,7 +2,7 @@
 
 Personal interested theoretical paper in machine learning. Papers from:
 
-- JMLR
+- [JMLR](http://proceedings.mlr.press/)
 - COLT / NIPS / ICML
 - AISTATS / CVPR / ICCV
 - AAAI
